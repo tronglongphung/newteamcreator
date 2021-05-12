@@ -1,0 +1,28 @@
+{
+  "name": "newteamcreator",
+  "version": "1.0.0",
+  "description": "creating a team",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tronglongphung/newteamcreator.git"
+  },
+  "author": "Tom Phung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tronglongphung/newteamcreator/issues"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "homepage": "https://github.com/tronglongphung/newteamcreator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}

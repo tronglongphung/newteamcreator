@@ -1,4 +1,4 @@
-const Manager = require("../src/employee");
+const Manager = require("../lib/manager");
 
 describe("Manager", () => {
   it("should be able to create a Manager", () => {

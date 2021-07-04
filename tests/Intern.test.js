@@ -1,4 +1,4 @@
-const Intern = require("../src/employee");
+const Intern = require("../lib/intern");
 
 describe("Intern", () => {
   it("should be able to create an Intern", () => {
